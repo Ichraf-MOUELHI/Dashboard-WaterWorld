@@ -1,6 +1,6 @@
 # Dashboard-WaterWorld
 
-Ce projet montre une vu globale et par pays de la distribution de l'eau potable dans le monde.
+Ce projet montre une vue globale, par pays et par année la distribution de l'eau potable dans le monde.
 
 🔗 [Voir sur Tableau Public](https://public.tableau.com/views/Accsleaudanslemonde/Laccsleauparpays?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
